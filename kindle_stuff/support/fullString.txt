@@ -1,0 +1,3 @@
+List of devices attached
+G0K0H40460521BDN	device
+
